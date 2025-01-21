@@ -1,3 +1,4 @@
+#trzeba znaleźć repo do YOLO
 opencv-python
 numpy
 matplotlib

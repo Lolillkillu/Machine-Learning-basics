@@ -1,4 +1,4 @@
-#trzeba znaleźć repo do YOLO
+ultralytics
 opencv-python
 numpy
 matplotlib

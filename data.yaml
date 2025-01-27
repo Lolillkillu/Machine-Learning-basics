@@ -1,0 +1,19 @@
+names:
+  0: pedestrian
+  1: rider
+  2: car
+  3: bus
+  4: truck
+  5: bicycle
+  6: motorcycle
+  7: green light
+  8: red light
+  9: yellow light
+  10: traffic light
+  11: traffic sign
+  12: train
+nc: 13
+path: /root/.cache/kagglehub/datasets/mikoajkoek/traffic-road-object-detection-polish-12k/versions/4
+test: road_detection/road_detection/test/images
+train: road_detection/road_detection/train/images
+val: road_detection/road_detection/valid/images

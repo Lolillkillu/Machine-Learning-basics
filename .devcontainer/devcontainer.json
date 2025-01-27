@@ -20,7 +20,7 @@
 		"ghcr.io/devcontainers-extra/features/nmap-apt-get:1": {}
 	},
 
-	"runArgs": ["--device", "nvidia.com/gpu=all"],
+	"runArgs": ["--device", "nvidia.com/gpu=all", "--shm-size", "100g"],
 
 	// Features to add to the dev container. More info: https://containers.dev/features.
 	// "features": {},

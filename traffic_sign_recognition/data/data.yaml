@@ -1,0 +1,17 @@
+names:
+- car
+- different-traffic-sign
+- green-traffic-light
+- motorcycle
+- pedestrian
+- pedestrian-crossing
+- prohibition-sign
+- red-traffic-light
+- speed-limit-sign
+- truck
+- warning-sign
+nc: 11
+path: /root/.cache/kagglehub/datasets/mikoajkoek/traffic-road-object-detection-polish-12k/versions/4
+test: road_detection/road_detection/test/images
+train: road_detection/road_detection/train/images
+val: road_detection/road_detection/valid/images
